@@ -104,7 +104,7 @@
     "babel-relay-plugin": "^0.11.0",
     "babel-relay-plugin-loader": "^0.11.0",
     "css-loader": "^0.28.4",
-    "graphql-code-generator": "^0.8.10",
+    "graphql-code-generator": "^0.18.2",
     "graphql-to-json": "^1.1.2",
     "graphql-tools": "^1.2.2",
     "gulp-concat": "^2.6.1",
